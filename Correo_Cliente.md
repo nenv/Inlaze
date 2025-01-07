@@ -3,11 +3,13 @@
 Este repositorio contiene la solución a la [prueba técnica](https://sportenlace-my.sharepoint.com/personal/y_carmona_inlaze_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fy%5Fcarmona%5Finlaze%5Fcom%2FDocuments%2FTalento%20Humano%20%28Contrataci%C3%B3n%29%2FDOCUMENTOS%20EMPLEADOS%2FSPORT%20ENLACE%20%20NUEVOS%20CONTRATOS%2F11%5FPRUEBAS%20Y%20PERFILES%2FPRUEBAS%2FPrueba%20T%C3%A9cnica%20%2D%20Analista%20de%20Requerimientos%2Epdf&parent=%2Fpersonal%2Fy%5Fcarmona%5Finlaze%5Fcom%2FDocuments%2FTalento%20Humano%20%28Contrataci%C3%B3n%29%2FDOCUMENTOS%20EMPLEADOS%2FSPORT%20ENLACE%20%20NUEVOS%20CONTRATOS%2F11%5FPRUEBAS%20Y%20PERFILES%2FPRUEBAS&ga=1&LOF=1), organizada en las siguientes secciones:
 
 ## Índice
-1. [Requerimientos Funcionales](./Requerimientos.md)
-2. [Casos de Uso](./Casos_de_Uso.md)
-3. [Propuesta de Herramientas](./Herramientas.md)
-4. [Preguntas Conceptuales](./Preguntas_Conceptuales.md)
-5. [Correo al Cliente](./Correo_Cliente.md)
+
+1. [Inicio](./README.md)
+2. [Requerimientos Funcionales](./Requerimientos.md)
+3. [Casos de Uso](./Casos_de_Uso.md)
+4. [Propuesta de Herramientas](./Herramientas.md)
+5. [Preguntas Conceptuales](./Preguntas_Conceptuales.md)
+6. [Correo al Cliente](./Correo_Cliente.md)
 
 ## Ejercicio de Comunicación (Correo al Cliente)
 
